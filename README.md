@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a project based on ReactJS and MERN stack.<br>I'm learning technologies that will help me make web applications.<br>In the future, I want to learn Android Development and make projects based on AI.<br>
+I'm currently working on projects based on ReactJS and MERN stack.<br>I'm learning technologies that will help me make web applications.<br>In the future, I want to learn Android Development and make projects based on AI.<br>
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@ I'm currently working on a project based on ReactJS and MERN stack.<br>I'm learn
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShreyaChakraborty18&icon=0&color=0)](https://visitcount.itsvg.in)
